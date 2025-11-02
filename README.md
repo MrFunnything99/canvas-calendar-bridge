@@ -332,4 +332,4 @@ ISC
 - Built with [Model Context Protocol (MCP)](https://modelcontextprotocol.io)
 - Uses [Canvas LMS API](https://canvas.instructure.com/doc/api/)
 - Uses [Google Calendar API](https://developers.google.com/calendar)
-- Designed for [Claude Desktop](https://claude.ai/download)
+
