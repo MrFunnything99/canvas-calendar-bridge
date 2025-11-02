@@ -1,0 +1,43 @@
+# Environment variables - CONTAINS API KEYS AND SECRETS - DO NOT COMMIT
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+build/
+dist/
+*.tsbuildinfo
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+.cache/
+
+# Google OAuth credentials (if stored locally)
+credentials.json
+token.json
+
+# Test files
+*.test.js
+*.test.ts
+__tests__/
+coverage/
